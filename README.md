@@ -1,4 +1,4 @@
-# 🎬 AI-Powered Media Content Automation Pipeline
+# 🎬 AI-Powered Marketing Content Generator
 
 An intelligent multi-agent pipeline that automatically generates a complete marketing content package from a single topic — using LangChain, Groq, and Llama 3.1.
 
