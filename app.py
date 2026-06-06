@@ -9,7 +9,7 @@ st.set_page_config(
     layout="wide",
 )
 
-st.title("🎬 AI-Powered Media Content Automation")
+st.title("🎬 AI-Powered Marketing Content Generator")
 st.caption("Powered by LangChain + Groq (Llama 3.1)")
 
 # ── Inputs ─────────────────────────────────────────────────────────────────────
